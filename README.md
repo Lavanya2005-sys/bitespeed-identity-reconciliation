@@ -8,7 +8,7 @@
 
 | Environment | URL |
 |-------------|-----|
-| **Production** | `<YOUR_HOSTED_URL>/identify` |
+| **Production** | `https://bitespeed-identity-reconciliation-g4sb.onrender.com/` |
 | **Local** | `http://localhost:3000/identify` |
 
 > 📌 Replace `<YOUR_HOSTED_URL>` with your actual hosted URL after deploying (e.g., on [Render](https://render.com))
