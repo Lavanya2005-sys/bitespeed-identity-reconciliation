@@ -8,7 +8,7 @@
 
 | Environment | URL |
 |-------------|------|
-| **Production** | `https://bitespeed-identity-reconciliation-g4sb.onrender.com/identify` |
+| **Production** | `https://bitespeed-identity-reconciliation-g4sb.onrender.com` |
 | **Local** | `http://localhost:3000/identify` |
 
 ---
